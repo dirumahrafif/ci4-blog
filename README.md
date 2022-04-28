@@ -1,4 +1,7 @@
 # CodeIgniter4 Blog
+
+file ci-blog.sql adalah file yang digunakan untuk memasukkan skema tabel, dan data.
+
 Yang akan kita buat di Project ini
 
 - Seting Koneksi untuk Konek ke Database
